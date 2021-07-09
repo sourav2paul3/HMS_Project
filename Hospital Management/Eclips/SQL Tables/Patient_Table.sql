@@ -1,0 +1,1 @@
+create table patient(ID varchar(10) primary key,Name varchar(20),Age varchar(3),Address varchar(1000),Mobile varchar(10),Date varchar(10),`Major Illness` varchar(50),`Email Id` varchar(50),Gender varchar(6),`Blood Group` varchar(4),Diagnosis varchar(10));

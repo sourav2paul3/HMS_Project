@@ -1,0 +1,1 @@
+Create table diagnosis_fees(Diagnosis varchar(10),Fees varchar(100));
